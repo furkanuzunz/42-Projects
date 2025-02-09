@@ -1,1 +1,1 @@
-Boş vaktim olduğu zamanlarda Ecole 42 projelerini yapmaya çalışıyorum,42 projeleri bakış açısı ve kendimi geliştirmemi sağlıyor.
+Boş vaktim olduğu zamanlarda C programlama dili ile projeler yapmaya çalışıyorum,C dili farklı bir bakış açısı ve kendimi geliştirmemi sağlıyor.
